@@ -1,4 +1,4 @@
-from bicycle.import
+from bicycle.import Bicycle, BicycleShop, Customers
 
 # main.py file
 print("watch this video https://www.youtube.com/watch?v=th3QlxeGoP0")
